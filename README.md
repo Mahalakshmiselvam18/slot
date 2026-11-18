@@ -27,7 +27,8 @@ Add your course schedule using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## PROGRAM
-```<html>
+```
+<html>
     <head>
     <title>Time Table</title>
 </head>
